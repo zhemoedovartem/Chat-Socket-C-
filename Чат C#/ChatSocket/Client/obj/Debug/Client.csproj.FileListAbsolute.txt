@@ -1,0 +1,6 @@
+E:\Чат C#\ChatSocket\Client\bin\Debug\Client.exe.config
+E:\Чат C#\ChatSocket\Client\bin\Debug\Client.exe
+E:\Чат C#\ChatSocket\Client\bin\Debug\Client.pdb
+E:\Чат C#\ChatSocket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Чат C#\ChatSocket\Client\obj\Debug\Client.exe
+E:\Чат C#\ChatSocket\Client\obj\Debug\Client.pdb
